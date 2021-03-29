@@ -27,6 +27,14 @@ Probably around B2.
 
 Plans...
 
+## Esperanto
+
+Plans...
+
+## Hebrew
+
+Plans...
+
 ## Chinese
 
 Plans...
@@ -35,4 +43,7 @@ Plans...
 
 Plans...
 
-## 
+## Black Speech (of Mordor)
+
+Plans...
+
